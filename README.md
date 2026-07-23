@@ -1,4 +1,6 @@
-## Hi there 👋
+## EE major interested in computer hardware and graphics. 
+Currently working on: Vulkan graphics engine,
+                      little robot guy
 
 <!--
 **JustPegwin/JustPegwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
